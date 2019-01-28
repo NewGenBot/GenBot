@@ -1,0 +1,13 @@
+﻿<xml xmlns="http://www.w3.org/1999/xhtml" collection="true">
+  <variables>
+    <variable type="" id="VzA*tcSRJS{+na!W#G:t">username</variable>
+  </variables>
+  <block type="variables_set" id="3K;Q2K{~N@w}X~wHDIy]" x="-90" y="33">
+    <field name="VAR" id="VzA*tcSRJS{+na!W#G:t" variabletype="">username</field>
+    <value name="VALUE">
+      <block type="text" id="@8HC+}mtr]{lDPPQ;yiy">
+        <field name="TEXT">1234321</field>
+      </block>
+    </value>
+  </block>
+</xml>
